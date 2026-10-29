@@ -1,0 +1,26 @@
+{
+  "placement": "Tested section, directly under \"But hey, at least it's cheap.\"",
+  "metrics": [
+    {
+      "label": "Cost",
+      "better": "lower",
+      "items": [
+        { "name": "Kimi K3.1 Pro", "value": 1.71, "display": "A$1.71" },
+        { "name": "Opus 5.5", "value": 5.05, "display": "A$5.05*" }
+      ]
+    },
+    {
+      "label": "Time to build",
+      "better": "lower",
+      "items": [
+        { "name": "Kimi K3.1 Pro", "value": 31, "display": "31 min" },
+        { "name": "Opus 5.5", "value": 19.5, "display": "19.5 min" }
+      ]
+    }
+  ],
+  "footnote": "*Claude ran on my subscription, so this is the same run at API prices. US$1 = A$1.43 (27 Oct 2026).",
+  "images": {
+    "opus-build.gif": "Tested section, first image, labelled \"Opus 5.5\"",
+    "kimi-build.gif": "Tested section, second image, labelled \"Kimi K3.1 Pro\""
+  }
+}
